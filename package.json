@@ -1,0 +1,16 @@
+{
+  "name": "example-voronoi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example-2d.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3-voronoi": "^1.1.2",
+    "randomcolor": "^0.5.3",
+    "voronoi-diagram": "^1.0.1"
+  }
+}
